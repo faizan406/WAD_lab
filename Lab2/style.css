@@ -1,3 +1,9 @@
+body{
+    
+    background-color: rgb(93, 174, 245);
+}
+
+
 #first{
     color: rgb(243, 11, 11);
     font-size: 50px;
@@ -95,9 +101,9 @@ h2{
 }
 
 #seventh{
-    color: rgb(10, 135, 173);
-    font-size: 30px;
-    font-weight: 150;
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+    font-weight: 1000;
     text-align: left;
 }
 
@@ -119,6 +125,7 @@ h2{
     font-size: 30px;
     font-weight: 150;
     text-align: left;
+    background-image: url("https://www.google.com/imgres?q=black%20anime%20images&imgurl=https%3A%2F%2F4kwallpapers.com%2Fimages%2Fwallpapers%2Fsatoru-gojo-7680x4320-15227.png&imgrefurl=https%3A%2F%2F4kwallpapers.com%2Fanime-black-wallpapers%2F&docid=UMoSnTno_PeGSM&tbnid=jvtZA61VitTxeM&vet=12ahUKEwjj8vjJjvaLAxWzRvEDHYurOUEQM3oECGQQAA..i&w=7680&h=4320&hcb=2&ved=2ahUKEwjj8vjJjvaLAxWzRvEDHYurOUEQM3oECGQQAA");
 }
 .quran.jpg{
     float: right;
