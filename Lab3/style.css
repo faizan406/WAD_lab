@@ -31,6 +31,7 @@ h2{
 }
 
 #second{
+    text-transform: uppercase;
     color: rgb(130, 17, 93);
     font-size: 30px;
     font-weight: 150;
@@ -47,6 +48,7 @@ h2{
 
 
 #ninteen{
+    text-transform: uppercase;
     color: rgb(197, 23, 130);
     font-size: 30px;
     font-weight: 150;
@@ -77,6 +79,7 @@ h2{
    
 }
 #third{
+    text-transform: uppercase;
     color: rgba(35, 9, 234, 0.831);
     font-size: 30px;
     font-weight: 150;
